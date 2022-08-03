@@ -1,0 +1,5 @@
+﻿  Project_UTS_KGV_Kelompok8.cpp
+C:\Users\johns\source\repos\Project_UTS_KGV_Kelompok8\Project_UTS_KGV_Kelompok8\Project_UTS_KGV_Kelompok8.cpp(89,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\johns\source\repos\Project_UTS_KGV_Kelompok8\Project_UTS_KGV_Kelompok8\Project_UTS_KGV_Kelompok8.cpp(89,22): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\johns\source\repos\Project_UTS_KGV_Kelompok8\Project_UTS_KGV_Kelompok8\Project_UTS_KGV_Kelompok8.cpp(89,18): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Project_UTS_KGV_Kelompok8.vcxproj -> C:\Users\johns\source\repos\Project_UTS_KGV_Kelompok8\Debug\Project_UTS_KGV_Kelompok8.exe
